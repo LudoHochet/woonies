@@ -1,0 +1,79 @@
+.tree-left {
+  position: absolute;
+  bottom: 89px;
+  left:-6px;
+}
+
+.pink-bar-one{
+  position: absolute;
+  bottom: -38px;
+  left: 66px;
+}
+
+.demi-circle-yellow {
+  position: absolute;
+  bottom: -75px;
+  left: 0px;
+}
+
+.green-bar-one {
+  position: absolute;
+  bottom: -140px;
+  left: 25px;
+}
+
+.birds-left {
+  position: absolute;
+  bottom: 0px;
+  left: 140px;
+}
+
+.forms {
+  position: absolute;
+  bottom: 89px;
+}
+
+.tree-right {
+  position: absolute;
+  bottom: 89px;
+  right: 307px;
+}
+
+.birds-right-first {
+  position: absolute;
+  bottom: 89px;
+  right: 433px;
+}
+
+.birds-right-second {
+  position: absolute;
+  bottom: 89px;
+  right: 353px;
+}
+
+.house-right {
+  position: absolute;
+  right: 0px;
+  bottom: 89px;
+}
+
+.circle-yellow {
+  position: absolute;
+  bottom: -205px;
+  right: 95px;
+}
+
+.pink-bar-two {
+  position: absolute;
+  bottom: -150px;
+  right: 0px;
+}
+
+.green-bar-two {
+  position: absolute;
+  bottom: -285px;
+  right: 0px;
+}
+
+
+

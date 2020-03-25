@@ -1,0 +1,30 @@
+.banner {
+  background-color: #E6F5FA;
+}
+
+.banner-content {
+  padding-top: 32px;
+  padding-bottom: 182px;
+  padding-left: 152px;
+}
+
+.banner-content>h2 {
+  font-weight: bold;
+  padding-bottom: O;
+  margin-bottom: 1rem;
+}
+
+.banner-content>p {
+  margin-bottom: 0px;
+  font-weight: lighter;
+}
+
+.banner-content>form {
+  margin-top: 1rem;
+}
+
+#address {
+  width: 500px;
+  border-radius: 4px;
+  padding: 5px;
+}

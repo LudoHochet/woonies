@@ -1,0 +1,54 @@
+.card-clients {
+  display: flex;
+  justify-content: center;
+  margin-top: 25px
+}
+
+.card-align-right {
+  text-align: right;
+  width: 500px;
+  padding: 3px 25px;
+}
+.parents {
+  display:flex;
+  align-items: center;
+}
+
+.card-align-right img {
+  height: 100%;
+  width: 120px;
+  object-fit: cover;
+}
+
+.card-align-right p {
+  font-size: 15px;
+  line-height: 1.4;
+  font-weight: bold;
+  margin-bottom: 0px;
+  padding-left: 30px;
+}
+
+form {
+  margin-top: 15px;
+}
+
+#email-form {
+  width: 318px;
+}
+
+.card-align-left {
+  text-align: left;
+  width: 500px;
+  padding: 3px 25px;
+}
+
+.card-align-left p {
+  font-size: 15px;
+  line-height: 1.4;
+  font-weight: lighter;
+  margin-bottom: 0px;
+}
+
+.inscript {
+  margin-top: 22px;
+}

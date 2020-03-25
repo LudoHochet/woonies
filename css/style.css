@@ -1,0 +1,39 @@
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/cards.css");
+@import url("components/line.css");
+@import url("components/pictures.css");
+
+
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.infos {
+  background-color: #18273A;
+  color: white;
+  position: relative;
+}
+
+.dispos {
+  margin-top: 18px;
+  position: relative;
+  text-align: center;
+}
+
+.dispos>h3 {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.dispos>p {
+  font-weight: lighter;
+  opacity: 0.8;
+}
+
+.footer {
+  background-color: #F9F9F9;
+  margin-top: 40px;
+}
+

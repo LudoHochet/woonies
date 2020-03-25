@@ -1,0 +1,23 @@
+.linepink {
+  display: inline;
+  white-space: pre-wrap;
+  box-shadow: #FFCFC5 0px -0.4rem 0px inset;
+  padding: 0;
+  margin: 0;
+}
+
+.lineblue {
+  display: inline;
+  white-space: pre-wrap;
+  box-shadow: #AEE9F9 0px -0.4rem 0px inset;
+  padding: 0;
+  margin: 0;
+}
+
+.lineyellow {
+  display: inline;
+  white-space: pre-wrap;
+  box-shadow: #FFD07C 0px -0.4rem 0px inset;
+  padding: 0;
+  margin: 0;
+}
